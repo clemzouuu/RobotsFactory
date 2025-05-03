@@ -1,0 +1,14 @@
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/bin/Debug/net9.0/UsineDeRobots
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/bin/Debug/net9.0/UsineDeRobots.deps.json
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/bin/Debug/net9.0/UsineDeRobots.runtimeconfig.json
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/bin/Debug/net9.0/UsineDeRobots.dll
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/bin/Debug/net9.0/UsineDeRobots.pdb
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.AssemblyInfoInputs.cache
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.AssemblyInfo.cs
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.csproj.CoreCompileInputs.cache
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.dll
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/refint/UsineDeRobots.dll
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.pdb
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/UsineDeRobots.genruntimeconfig.cache
+/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/Debug/net9.0/ref/UsineDeRobots.dll
