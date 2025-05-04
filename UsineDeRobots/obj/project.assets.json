@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/clemzouuu/.nuget/packages/": {}
+    "/Users/rogerbentcha/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/UsineDeRobots.csproj",
+      "projectUniqueName": "/Users/rogerbentcha/Documents/ESGI/4ESGI-AL1/S2/Desgin Pattern/RobotsFactory/UsineDeRobots/UsineDeRobots.csproj",
       "projectName": "UsineDeRobots",
-      "projectPath": "/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/UsineDeRobots.csproj",
-      "packagesPath": "/Users/clemzouuu/.nuget/packages/",
-      "outputPath": "/Users/clemzouuu/Desktop/RobotsFactory/UsineDeRobots/obj/",
+      "projectPath": "/Users/rogerbentcha/Documents/ESGI/4ESGI-AL1/S2/Desgin Pattern/RobotsFactory/UsineDeRobots/UsineDeRobots.csproj",
+      "packagesPath": "/Users/rogerbentcha/.nuget/packages/",
+      "outputPath": "/Users/rogerbentcha/Documents/ESGI/4ESGI-AL1/S2/Desgin Pattern/RobotsFactory/UsineDeRobots/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/clemzouuu/.nuget/NuGet/NuGet.Config"
+        "/Users/rogerbentcha/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/rogerbentcha/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
