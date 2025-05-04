@@ -65,5 +65,19 @@ public class Stock
         wi1.SetSysteme("System_SB1");
         Robots["WI-1"] = wi1;
     }
+    
+    public void DisplayInventory()
+    {
+        foreach (var robot in Robots.Values)
+        {
+            Console.WriteLine(robot);
+        }
+        
+        foreach (var piece in Pieces.Values)
+        {
+            Console.WriteLine(piece);
+        }
+    }
+
 
 }
